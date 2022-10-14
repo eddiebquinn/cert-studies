@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "01a22ea9ecd7ff79",
+    "type": "split",
+    "children": [
+      {
+        "id": "404d6c61ac776176",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28bcc024323f239c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network topology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27c637dbd32951f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "client server model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bdfd58864e36d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00af103a7d477431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb0ac22445f6c16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "118a4dac6a0b1ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68756ca84158aa34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c21123a1084d0b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a09b1d676bd255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c7ed69d68334d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network topology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27143228adc530c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network topology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ed89797c869c82e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "589d6b6e86b0a2cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network topology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "28bcc024323f239c",
+  "lastOpenFiles": [
+    "Network+.md",
+    "WAN.md",
+    "peer to peer model.md",
+    "PAN.md",
+    "network standards.md",
+    "network resources.md",
+    "network geograpy.md",
+    "MAN.md",
+    "LAN.md",
+    "client server model.md"
+  ]
+}
