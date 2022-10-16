@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network+.md",
+                "file": "Layer 1 - Physical.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network+.md",
+                "file": "Layer 1 - Physical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network+.md",
+                "file": "Layer 1 - Physical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network+.md"
+                "file": "Layer 1 - Physical.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "d4d6a34450941edc",
   "lastOpenFiles": [
+    "Bits.md",
+    "Network+.md",
     "Network topology.md",
+    "Layer 1 - Physical.md",
+    "RJ45 connector.md",
+    "Overview.md",
+    "Internet of things.md",
     "Wireless Mesh.md",
     "Ad Hoc Wireless.md",
-    "Instrastructure mode.md",
-    "Hub-and-spoke Topology.md",
-    "Partial-Mesh topology.md",
-    "Full-Mesh topology.md",
-    "Network+.md",
-    "Star Topology.md",
-    "Ring Topology.md"
+    "Instrastructure mode.md"
   ]
 }
