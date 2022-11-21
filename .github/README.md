@@ -4,12 +4,8 @@
 These are the various notes I have for diffrent certifications. They have been made using [Obsidian](https://obsidian.md/). Allot of certifications overlap in what they conver, so while each cert may have it's own MOC in the 'front matter' of all notes there should be a tag signifying what cert it is realted to.
 
 ## Meta MOC
-<<<<<<< HEAD
-- [[CompTIA A+]]
-- [[Network+]]
-=======
-- [[Network+]] (I am currently studying this)
->>>>>>> 27903da3df1031a42b57aa7c809c32da998ac590
+- [CompTIA A+]
+- [Network+]
 
 ---
 ## *note*
