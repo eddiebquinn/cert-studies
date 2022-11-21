@@ -11,8 +11,36 @@
             "id": "28bcc024323f239c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. META MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fc39b26e670097a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Network+.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "281c964b0fc3a509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. META MOC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -35,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. META MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. META MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. META MOC.md"
+              }
             }
           }
         ]
@@ -148,20 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "28bcc024323f239c",
+  "active": "281c964b0fc3a509",
   "lastOpenFiles": [
+    "CompTIA Network+.md",
+    "1. META MOC.md",
     "readme.md",
     "CompTIA A+.md",
-    "Network+.md",
     "Layer 1 - Physical.md",
     "Bits.md",
     "Network topology.md",
     "RJ45 connector.md",
     "Overview.md",
-    "Internet of things.md",
-    "Wireless Mesh.md"
+    "Internet of things.md"
   ]
 }
