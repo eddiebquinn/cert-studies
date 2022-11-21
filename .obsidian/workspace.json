@@ -11,24 +11,16 @@
             "id": "28bcc024323f239c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network+.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "d4d6a34450941edc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -43,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,17 +151,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d4d6a34450941edc",
+  "active": "28bcc024323f239c",
   "lastOpenFiles": [
+    "readme.md",
+    "CompTIA A+.md",
+    "Network+.md",
     "Layer 1 - Physical.md",
     "Bits.md",
-    "Network+.md",
     "Network topology.md",
     "RJ45 connector.md",
     "Overview.md",
     "Internet of things.md",
-    "Wireless Mesh.md",
-    "Ad Hoc Wireless.md",
-    "Instrastructure mode.md"
+    "Wireless Mesh.md"
   ]
 }
