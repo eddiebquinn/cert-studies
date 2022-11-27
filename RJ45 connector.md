@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 The most common connector for this type of wire is an RJ45 connector.

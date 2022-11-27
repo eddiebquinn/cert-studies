@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 A ring topology runs similarly to a [[Bus Topology]] in that it uses a single cable, but it runs in a big circle. Each device in the ring can then talk on that cable in a single direction. 

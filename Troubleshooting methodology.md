@@ -1,4 +1,4 @@
-tags: #A-plus
+Cert MOCs: [[CompTIA A+]]
 
 ---
 As a tech, you're going to be asked to find the root cause, or at the very least find a workaround to get back up and running. For this reason, it is important to follow a standard procedure on troubleshooting to ensure that you and your colleges are able to pick up/leave off with troubleshooting. To help with this, CompTIA came up with a six-step methodology.

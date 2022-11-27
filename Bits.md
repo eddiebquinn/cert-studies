@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 Bits are a type of data trasnfer using binary as the medium. This means the data is either a `1` or a `0`

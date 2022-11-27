@@ -1,4 +1,4 @@
-tags: #network-plus
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 | Name | IEEE code | Geogrpahy |

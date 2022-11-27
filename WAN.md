@@ -1,4 +1,4 @@
-tags: #network-plus
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 This is referred to as a Wide Area Network - It connects geographically disparate internal network and consists of leased lines and VPN's/. The covers anything across a country, country, or the world. 

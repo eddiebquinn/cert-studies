@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 This is a network topology which offers full redundancy, because all devices are connected to one another. This has the added benefit that all devices have optimal routing. 

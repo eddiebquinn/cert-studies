@@ -1,4 +1,4 @@
-tags: #network-plus
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 The peer to peer model runs converse to the [[client server model]]. This is where you have multiple nodes on a network talking to each other, rather than going to one centralized source.

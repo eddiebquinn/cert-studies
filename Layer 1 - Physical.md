@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]] 
 
 ---
 The first layer of the [[Overview|OSI model]] is the physical layer. This is where bits are physically transported across the network, and includes the physical and network characteristics of the network. This is going to tell us if were using an [[Ethernet]] network, what type of cable were using, if were using RF, etc. Regardless of the specific [[Network topology|topology]] we're using, at this layer data is always transferred in [[Bits]] (for more information on how these bits are represented on different network topologies, see the page).

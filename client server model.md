@@ -1,4 +1,4 @@
-tags: #network-plus
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 The client server model uses a dedicated server to provide access to files/scanners/ printers/etc.

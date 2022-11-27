@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 OSI stands for `Open Systems Interconnction`, and was developed in 1977 by the ISO. Its ISO number is 7498. This is mainly referred to as the OSI model, but can also be called the OSI stack. It is a major part in modern networking.

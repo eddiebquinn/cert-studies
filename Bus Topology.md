@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 This is where you use a single cable which runs the length of the network. Different devices that need to jack into that network would then tap into that network, using either a T connector or vampire tap. Bus topologies are very rare now days.

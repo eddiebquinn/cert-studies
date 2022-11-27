@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 This is where all machines talk to a central point, i.e. a network switch. This is the topology that is used in most modern day networks. 

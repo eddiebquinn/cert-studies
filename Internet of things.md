@@ -1,4 +1,4 @@
-Tags: #network-plus 
+Cert MOCs: [[CompTIA Network+]]
 
 ---
 The internet of thing is basically everything - It is mainly referring to smart fridges, smart thermostats, etc. It refers to the phenomenon that most modern devices has some internet technology.
