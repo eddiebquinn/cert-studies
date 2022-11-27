@@ -5,6 +5,11 @@ Most of CompTIA A+ is common sense, so the notes here are exhaustive. They mainl
 - [[Troubleshooting methodology]]
 
 ## Section 2 - Cable types
-- [[USB]]
+**Utility cables** 
 - [[Serial cables]]
+- [[USB]]
+**Videos cables**
+- [[HDMI]]
+- [[Display Port]]
 - 
+
