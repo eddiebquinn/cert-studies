@@ -45,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#A-plus",
+                "query": "tag:#MOC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,15 +132,15 @@
   },
   "active": "e92552a5580c49e5",
   "lastOpenFiles": [
+    "CompTIA Network+.md",
+    "1. META MOC.md",
     "CompTIA A+.md",
     "Serial cables.md",
     "Troubleshooting methodology.md",
     "USB.md",
     "HDMI.md",
     "Display Port.md",
-    "1. META MOC.md",
     "Ad Hoc Wireless.md",
-    "Instrastructure mode.md",
-    "Full-Mesh topology.md"
+    "Instrastructure mode.md"
   ]
 }

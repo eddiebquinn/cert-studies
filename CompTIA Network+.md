@@ -1,3 +1,6 @@
+Tags: #MOC 
+
+---
 ## MOC
 ### Network Basics
 - [[network resources]]
