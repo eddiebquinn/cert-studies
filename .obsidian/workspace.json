@@ -13,58 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. META MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fc39b26e670097a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CompTIA Network+.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "281c964b0fc3a509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. META MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d6a34450941edc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "27c637dbd32951f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "client server model.md",
+                "file": "USB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. META MOC.md",
+                "file": "USB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. META MOC.md",
+                "file": "USB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. META MOC.md"
+                "file": "USB.md"
               }
             }
           }
@@ -181,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "281c964b0fc3a509",
+  "active": "28bcc024323f239c",
   "lastOpenFiles": [
-    "CompTIA Network+.md",
-    "1. META MOC.md",
-    "readme.md",
+    "images/usb_comparison_table.jpg",
+    "USB.md",
+    "Serial cables.md",
+    "Troubleshooting methodology.md",
     "CompTIA A+.md",
-    "Layer 1 - Physical.md",
-    "Bits.md",
-    "Network topology.md",
-    "RJ45 connector.md",
-    "Overview.md",
-    "Internet of things.md"
+    "1. META MOC.md",
+    "CompTIA Network+.md",
+    "client server model.md",
+    "Internet of things.md",
+    "readme.md"
   ]
 }
