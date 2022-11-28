@@ -5,4 +5,4 @@ PAN stands for Personal Area Network, and is the smallest type of wired/wireless
 
 ## e.g.
 - Bluetooth
-- USB
+- [[USB]]

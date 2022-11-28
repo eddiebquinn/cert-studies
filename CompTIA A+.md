@@ -12,5 +12,12 @@ Tags: #MOC
 **Videos cables**
 - [[HDMI]]
 - [[Display Port]]
-- 
-
+- [[DVI]]
+- [[VGA]]
+- [[Thunderbolt]]
+**Storage cables**
+- [[Thunderbolt]]
+- [[Lightning cable]]
+- [[SATA]]
+- [[IDE]]
+- [[SUSSI]]

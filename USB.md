@@ -1,4 +1,4 @@
-Cert MOCs: [[CompTIA A+]]
+Cert MOCs: [[CompTIA A+]], [[CompTIA Network+]]
 
 ---
 ##  Basic info
