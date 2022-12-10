@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU.md",
+                "file": "1. META MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU.md",
+                "file": "1. META MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU.md",
+                "file": "1. META MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU.md"
+                "file": "1. META MOC.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "3c2e5e105047f6e2",
   "lastOpenFiles": [
-    "CompTIA A+.md",
+    "1. META MOC.md",
     "CPU.md",
+    "CompTIA A+.md",
     "Motherboard form factors.md",
     "Functions of a motherboard.md",
     "Serial cables.md",
     "images/usbPort_comparison.png",
     "SUSSI.md",
     "IDE.md",
-    "SATA.md",
-    "Thunderbolt.md"
+    "SATA.md"
   ]
 }
