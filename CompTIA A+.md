@@ -21,3 +21,8 @@ Tags: #MOC
 - [[SATA]]
 - [[IDE]]
 - [[SUSSI]]
+
+## Section 3 - Motherboards
+- [[Functions of a motherboard]] *i need to make a link to data storage when i get a chance*
+- [[Motherboard form factors]]
+- [[CPU|CPUs]]
